@@ -68,8 +68,6 @@ This project utilizes **solar energy + IoT technology** to build a smart EV char
 
 ## 🖼️ Circuit Diagram
 
-## 🖼️ Circuit Diagram
-
 <p align="center">
   <img src="Circuit_Diagram/circuit_diagram_solar_ev.png" width="700"/>
   <br>
